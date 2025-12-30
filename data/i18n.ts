@@ -18,7 +18,7 @@ export const translations = {
     exploreServices: "Explore Services",
 
     // About
-    aboutTitle: "About NSPRC",
+    aboutTitle: "About NLPC",
     aboutText:
       "Nirapod Laser Physiotherapy Center is a state-of-the-art facility in Dhaka, Bangladesh, providing comprehensive physiotherapy services using advanced technology and expert care.",
     aboutSubtitle: "Dedicated to restoring your health and mobility",
