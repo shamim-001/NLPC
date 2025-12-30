@@ -18,7 +18,7 @@ export const DOCTORS: Doctor[] = [
     "id": "sheikh-farhana",
     "name": "Dr. Sheikh Farhana Ahamed PT",
     "namebn": "ডাক্তার শেখ ফারহানা আহামেদ পি.টি",
-    "title": "B.P.T (DU), M.S Geriatric Rehabilitation (DU)",
+    "title": "B.P.T (DU), M.S (Geriatric Rehabilitation - DU)",
     "titlebn": "বি.পি.টি (ঢাবি), এম এস (জেরিয়াট্রিক রিহ্যাবিলিটেশন-ঢাবি)",
     "specialties": ["Mobilization and Manual Therapy", "McKenzie Approach", "Orthopedic Medicine (Cyriax)"],
     "specialtiesbn": ["মোবিলাইজেশন এন্ড ম্যানুয়াল থেরাপি", "মেকেনজি এপ্রোস", "অর্থোপেডিক মেডিসিন (সাইরাক্স)"],
