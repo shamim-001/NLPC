@@ -18,14 +18,14 @@ export const DOCTORS: Doctor[] = [
     "id": "sheikh-farhana",
     "name": "Dr. Sheikh Farhana Ahamed PT",
     "namebn": "ডাক্তার শেখ ফারহানা আহামেদ পি.টি",
-    "title": "B.P.T (DU), Mobilization & Manual Therapy, McKenzie Approach",
-    "titlebn": "বি.পি.টি (ঢাবি), মোবিলাইজেশন এন্ড ম্যানুয়াল থেরাপি, মেকেনজি এপ্রোস",
+    "title": "B.P.T (DU), M.S Geriatric Rehabilitation (DU)",
+    "titlebn": "বি.পি.টি (ঢাবি), এম এস (জেরিয়াট্রিক রিহ্যাবিলিটেশন-ঢাবি)",
     "specialties": ["Mobilization and Manual Therapy", "McKenzie Approach", "Orthopedic Medicine (Cyriax)"],
     "specialtiesbn": ["মোবিলাইজেশন এন্ড ম্যানুয়াল থেরাপি", "মেকেনজি এপ্রোস", "অর্থোপেডিক মেডিসিন (সাইরাক্স)"],
     "bio": "Specialist in orthopedic medicine (Cyriax) with expertise in mobilization, manual therapy, and McKenzie approach. Consultant in Physiotherapy Department with 8+ years of experience.",
     "biobn": "সাইরিয়াক্স অর্থোপেডিক মেডিসিনে বিশেষজ্ঞ, মোবিলাইজেশন, ম্যানুয়াল থেরাপি ও মেকেনজি মেথডে দক্ষ। ৮+ বছর ফিজিওথেরাপি কনসালট্যান্ট।",
     "image": "/images/doctor-farhana.jpeg",
-    "registration": "B.P.A. Reg. No.-11134"
+    "registration": "B.P.A. Reg. No.-1134"
   },
   {
     "id": "syed-ahmad",
