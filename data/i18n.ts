@@ -12,7 +12,7 @@ export const translations = {
     contact: "Contact",
 
     // Hero
-    heroTitle: "Advanced Physiotherapy & Laser Treatment",
+    heroTitle: "Nirapod Laser Physiotherapy Center",
     heroSubtitle: "Expert care for neurological, orthopedic, and geriatric conditions",
     heroButton: "Book Now",
     exploreServices: "Explore Services",

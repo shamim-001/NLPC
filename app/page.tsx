@@ -25,7 +25,7 @@ function HomeContent({ language }: { language: Language }) {
             {/* LEFT: TEXT CONTENT */}
             <div className="space-y-6 order-1 lg:order-1">
               <h1 className="text-3xl lg:text-5xl font-bold text-[#003087] leading-tight text-balance">
-                Advanced Physiotherapy & Laser Treatment
+                Nirapod Laser Physiotherapy Center
               </h1>
               <p className="text-xl lg:text-2xl text-gray-700 max-w-lg">
                 Expert care for neurological, orthopedic, paediatric conditions
