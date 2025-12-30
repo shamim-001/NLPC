@@ -89,6 +89,26 @@ function AboutContent({ language }: { language: Language }) {
                     </div>
                 </div>
             </section>
+
+            {/* Photo Gallery */}
+            <section className="py-20 bg-white">
+                <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+                    <h2 className="mb-12 text-center text-3xl font-bold text-blue-900">
+                        {language === "en" ? "Photo Gallery" : "ফটো গ্যালারি"}
+                    </h2>
+                    <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                        {[1, 2, 3, 4, 5, 6].map((item) => (
+                            <div key={item} className="group relative aspect-[4/3] overflow-hidden rounded-lg shadow-md bg-gray-100">
+                                <img
+                                    src={`/photo gallary/${item}.jpg`}
+                                    alt={`Gallery Image ${item}`}
+                                    className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                                />
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            </section>
         </div>
     )
 }
