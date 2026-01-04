@@ -238,6 +238,16 @@ export const SERVICES: Service[] = [
     image: "/services/Therapeutic Massage.jpg",
   },
   {
+    id: "chiropractic",
+    name: "Chiropractic Treatment",
+    namebn: "কাইরোপ্র্যাকটিক চিকিৎসা",
+    description: "Diagnosis and treatment of neuromuscular disorders, primarily through adjustment and manipulation of the spine.",
+    descriptionbn: "মেরুদন্ডের সমন্বয় এবং ম্যানিপুলেশনের মাধ্যমে নিউরোমাসকুলার ব্যাধি নির্ণয় এবং চিকিৎসা।",
+    category: "manualtherapy",
+    icon: "🦴",
+    image: "/services/Chiropractic Treatment.jpg",
+  },
+  {
     id: "joint-mobilization",
     name: "Joint Mobilization",
     namebn: "জয়েন্ট মোবিলাইজেশন",
