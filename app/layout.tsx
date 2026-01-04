@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://nirapodlaser.com",
+    url: "www.nirapodphysiotherapy.com/",
     siteName: "Nirapod Laser Physiotherapy Center",
     images: [
       {
@@ -88,7 +88,7 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'DUMMY_GTM_ID_REPLACE_ME');
+              gtag('config', 'GTM-N2F5LS4P');
             `,
           }}
         />
