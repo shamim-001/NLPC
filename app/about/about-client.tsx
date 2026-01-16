@@ -118,7 +118,7 @@ function AboutContent({ language }: { language: Language }) {
                         {[1, 2, 3, 4, 5, 6].map((item) => (
                             <div key={item} className="group relative aspect-[4/3] overflow-hidden rounded-lg shadow-md bg-gray-100">
                                 <img
-                                    src={`/photo gallary/${item}.jpg`}
+                                    src={`/gallery/${item}.jpg`}
                                     alt={`Gallery Image ${item}`}
                                     className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
                                 />
